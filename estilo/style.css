@@ -11,6 +11,10 @@
     --cor3: #0476D9;
     --cor4: #023859 ;
     --cor5: #023859 ;
+}
+body{
+   background-image: to top #056CF2, ;
+
 } 
 header{
     font-family: var(--font-padrao1);
