@@ -26,7 +26,7 @@ header{
 header a {
     color: white;
     text-decoration: none;
-    font-size: 35px;
+    font-size: 29px;
 }
  header a:hover{
     color: chartreuse;
@@ -52,8 +52,8 @@ article p {
     font-family: var(--font-padrao2);
     font-size: 23px;
     text-align: justify;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
 
 }
 
