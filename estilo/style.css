@@ -1,4 +1,55 @@
 @charset "UTF-8"
 
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@300&display=swap');
+ 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Sono:wght@300&display=swap');
+:root{
+    --font-padrao1:'Sono', sans-serif;
+    --font-padra2: 'Roboto', sans-serif;
+    --cor1: #0554F2; 
+    --cor2: #056CF2;
+    --cor3: #0476D9;
+    --cor4: #023859 ;
+    --cor5: #023859 ;
+} 
+header{
+    font-family: var(--font-padrao1);
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding: 10px; 
+}
+header a {
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+}
+ header a:hover{
+    color: chartreuse;
+}
+nav{
+     text-align: center;
+    
 
+}
+nav a {
+  text-decoration: none;
+  margin: 26px;
+  font-size: 25px;
+  color: #0554F2;
+}
+article h2{
+    text-align: center;
+    font-size: 35px;
+    font-family: var(--font-padrao1);
+}
+
+article p {
+    font-family: var(--font-padrao2);
+    font-size: 23px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
 
