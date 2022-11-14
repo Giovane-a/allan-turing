@@ -12,8 +12,15 @@
     --cor4: #023859 ;
     --cor5: #023859 ;
 }
+article {
+width: 80vw;
+position: relative;
+left: 100px;
+
+
+} 
 body{
-   background-image:linear-gradient(to top ,gray , #0476d9a4) 
+   
 
 } 
 header{
